@@ -1,0 +1,22 @@
+
+body{
+    background-color:#FEF3E2;
+}
+
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+h2:hover{
+    color:red;
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+#footer-text {
+    color: red;
+    text-align: center;
+    
+}

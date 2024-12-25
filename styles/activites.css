@@ -1,11 +1,30 @@
 h1{
+
     color: rgb(167, 7, 7);
     font-weight: 500;
+    text-align: center;
+    font-size: xx-large;
 }
 h1:hover{
     color: rgb(14, 195, 83);
 
 }
+a,
+li{
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+    padding-right: 20px;
+}
+a:viseted{
+    color:red
+}
 body{
-    background-color:EFF3EA);
+    background-color:#EFF3EA;
+}
+
+#footer-text {
+    color: red;
+    text-align: center;
+    
 }

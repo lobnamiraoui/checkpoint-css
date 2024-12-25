@@ -4,7 +4,7 @@ h1{
     font-weight: 500;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    font-size:x-large;
+    font-size:xx-large;
     padding: 20px;
 }
 h1:hover{
@@ -13,6 +13,7 @@ h1:hover{
 }
 h2{
     color: blueviolet;
+   
 }
 h2:hover{
     color:red;
@@ -23,7 +24,7 @@ body{
 }
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: justify;
+    text-align:left;
 }
 #footer-text {
     color: red;
