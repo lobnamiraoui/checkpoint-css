@@ -5,3 +5,6 @@ li{
     text-align: center;
     padding-right: 20px;
 }
+a:viseted{
+    color:red
+}
