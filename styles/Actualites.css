@@ -9,3 +9,8 @@ h1:hover{
 body{
     background-color: bisque;
 }
+#footer-text {
+    color: red;
+    text-align: center;
+    
+}
