@@ -15,6 +15,16 @@ h2{
     color: blueviolet;
    
 }
+a,
+li{
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+    padding-right: 20px;
+}
+a:viseted{
+    color:red
+}
 h2:hover{
     color:red;
 

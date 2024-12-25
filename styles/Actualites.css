@@ -9,6 +9,16 @@ h1:hover{
 body{
     background-color: bisque;
 }
+a,
+li{
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+    padding-right: 20px;
+}
+a:viseted{
+    color:red
+}
 #footer-text {
     color: red;
     text-align: center;
