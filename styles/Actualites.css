@@ -1,3 +1,10 @@
+
+
+body{
+    background-color: bisque;
+    font-family: 'roboto' sans-serif;
+    
+}
 h1{
     color: rgb(167, 7, 7);
     font-weight: 500;
@@ -6,9 +13,7 @@ h1:hover{
     color: rgb(14, 195, 83);
 
 }
-body{
-    background-color: bisque;
-}
+
 a,
 li{
     text-decoration: none;
@@ -19,8 +24,11 @@ li{
 a:viseted{
     color:red
 }
-#footer-text {
-    color: red;
+footer p {
     text-align: center;
-    
+    padding: 2px ;
+    background-color: #C96868;
+    color: #FFFFFF;
+    margin-top: 2px;
+    font-size: 0.9rem;
 }

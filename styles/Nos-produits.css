@@ -1,3 +1,11 @@
+
+
+body{
+    background-color: bisque;
+    font-family: 'roboto' sans-serif;
+    
+}
+
 h1{
 
     color: rgb(167, 7, 7);
@@ -7,14 +15,17 @@ h1{
     font-size:xx-large;
     padding: 20px;
 }
+
 h1:hover{
     color: rgb(21, 184, 46);
 
 }
+
 h2{
     color: blueviolet;
    
 }
+
 a,
 li{
     text-decoration: none;
@@ -25,19 +36,21 @@ li{
 a:viseted{
     color:red
 }
+
 h2:hover{
     color:red;
 
 }
-body{
-    background-color:#FEF3E2;
-}
+
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align:left;
 }
-#footer-text {
-    color: red;
+footer p {
     text-align: center;
-    
+    padding: 2px ;
+    background-color: #C96868;
+    color: #FFFFFF;
+    margin-top: 2px;
+    font-size: 0.9rem;
 }

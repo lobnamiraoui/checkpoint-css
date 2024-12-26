@@ -1,3 +1,9 @@
+
+body{
+    background-color: bisque;
+    font-family: 'roboto' sans-serif;
+    
+}
 a,
 li{
     text-decoration: none;
@@ -8,8 +14,11 @@ li{
 a:viseted{
     color:red
 }
-#footer-text {
-    color: red;
+footer p {
     text-align: center;
-    
+    padding: 2px ;
+    background-color: #C96868;
+    color: #FFFFFF;
+    margin-top: 2px;
+    font-size: 0.9rem;
 }

@@ -1,8 +1,9 @@
 
 body{
-    background-color:#FEF3E2;
+    background-color: bisque;
+    font-family: 'roboto' sans-serif;
+    
 }
-
 h2{
     color: blueviolet;
     text-align: center;
@@ -25,8 +26,11 @@ p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: justify;
 }
-#footer-text {
-    color: red;
+footer p {
     text-align: center;
-    
+    padding: 2px ;
+    background-color: #C96868;
+    color: #FFFFFF;
+    margin-top: 2px;
+    font-size: 0.9rem;
 }
